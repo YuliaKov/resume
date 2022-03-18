@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'playfair display', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #FFEFD5 ;
+    color: #571a05;
+    }
+
+.info-text p {
+    font-style: italic;
+    font-size: 18px;
+    color: #270b02;
+}
+
+.info-text h1 {
+    font-size: 28px;
+    color: #270b02;
+    text-decoration: underline;
+}
+
+.card1 {
+    border: 2px solid #A0522D;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #DEB887;
+}
+
+.card2 {
+    border: 2px solid #A0522D;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #DEB887;
+    margin-bottom: 20px;
+}
+
+.card3 {
+    border: 2px solid #A0522D;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #DEB887;
+}
+
+.card4 {
+    border: 2px solid #A0522D;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: #DEB887;
+}
+
+textarea {
+    background:#FFDEAD ;
+}
+
+input {
+    background:#FFDEAD ;
+}
+
+button {
+    background:#FFDEAD ;
+}
